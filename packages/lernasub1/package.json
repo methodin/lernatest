@@ -1,6 +1,6 @@
 {
   "name": "@methodin/lernasub1",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "> TODO: description",
   "author": "Derek <derekrw@gmail.com>",
   "homepage": "https://github.com/methodin/lernatest#readme",
@@ -27,7 +27,7 @@
     "url": "https://github.com/methodin/lernatest/issues"
   },
   "dependencies": {
-    "@methodin/lernasub2": "^0.0.1"
+    "@methodin/lernasub2": "^0.0.2"
   },
   "gitHead": "a2fedb3f854011eea14666eb283da2ad9b6ce731"
 }
