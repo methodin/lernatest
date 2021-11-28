@@ -1,5 +1,5 @@
 {
-  "name": "app",
+  "name": "@methodin/lernaapp",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -10,5 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "@methodin/lernasub1": "^0.0.1"
-  }
+  },
+  "gitHead": "a2fedb3f854011eea14666eb283da2ad9b6ce731"
 }
